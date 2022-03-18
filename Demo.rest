@@ -1,0 +1,6 @@
+POST https://localhost:44371/order
+Content-Type: application/json
+
+{
+    "orderId": "786A866F-1D0C-46AE-93FB-BB5B3E18DE6D"
+}

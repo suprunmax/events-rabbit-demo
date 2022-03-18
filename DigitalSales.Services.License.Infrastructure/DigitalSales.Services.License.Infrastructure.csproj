@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>DigitalSales.Service.License.Infrastructure</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Convey" Version="1.0.531" />
+      <PackageReference Include="Convey.MessageBrokers" Version="1.0.531" />
+      <PackageReference Include="Convey.MessageBrokers.CQRS" Version="1.0.531" />
+      <PackageReference Include="Convey.MessageBrokers.Outbox" Version="1.0.531" />
+      <PackageReference Include="Convey.MessageBrokers.RabbitMQ" Version="1.0.531" />
+      <PackageReference Include="Convey.WebApi" Version="1.0.531" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DigitalSales.Services.License.Application\DigitalSales.Services.License.Application.csproj" />
+    </ItemGroup>
+
+</Project>

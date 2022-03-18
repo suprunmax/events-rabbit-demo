@@ -1,0 +1,15 @@
+D:\Repositories\EventsDemo\DigitalSales.Services.Order.Infrastructure\bin\Debug\net6.0\DigitalSales.Services.Order.Infrastructure.deps.json
+D:\Repositories\EventsDemo\DigitalSales.Services.Order.Infrastructure\bin\Debug\net6.0\DigitalSales.Services.Order.Infrastructure.dll
+D:\Repositories\EventsDemo\DigitalSales.Services.Order.Infrastructure\bin\Debug\net6.0\ref\DigitalSales.Services.Order.Infrastructure.dll
+D:\Repositories\EventsDemo\DigitalSales.Services.Order.Infrastructure\bin\Debug\net6.0\DigitalSales.Services.Order.Infrastructure.pdb
+D:\Repositories\EventsDemo\DigitalSales.Services.Order.Infrastructure\bin\Debug\net6.0\DigitalSales.Services.Order.Application.dll
+D:\Repositories\EventsDemo\DigitalSales.Services.Order.Infrastructure\bin\Debug\net6.0\DigitalSales.Services.Order.Application.pdb
+D:\Repositories\EventsDemo\DigitalSales.Services.Order.Infrastructure\obj\Debug\net6.0\DigitalSales.Services.Order.Infrastructure.csproj.AssemblyReference.cache
+D:\Repositories\EventsDemo\DigitalSales.Services.Order.Infrastructure\obj\Debug\net6.0\DigitalSales.Services.Order.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\EventsDemo\DigitalSales.Services.Order.Infrastructure\obj\Debug\net6.0\DigitalSales.Services.Order.Infrastructure.AssemblyInfoInputs.cache
+D:\Repositories\EventsDemo\DigitalSales.Services.Order.Infrastructure\obj\Debug\net6.0\DigitalSales.Services.Order.Infrastructure.AssemblyInfo.cs
+D:\Repositories\EventsDemo\DigitalSales.Services.Order.Infrastructure\obj\Debug\net6.0\DigitalSales.Services.Order.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Repositories\EventsDemo\DigitalSales.Services.Order.Infrastructure\obj\Debug\net6.0\DigitalSales.Services.Order.Infrastructure.csproj.CopyComplete
+D:\Repositories\EventsDemo\DigitalSales.Services.Order.Infrastructure\obj\Debug\net6.0\DigitalSales.Services.Order.Infrastructure.dll
+D:\Repositories\EventsDemo\DigitalSales.Services.Order.Infrastructure\obj\Debug\net6.0\ref\DigitalSales.Services.Order.Infrastructure.dll
+D:\Repositories\EventsDemo\DigitalSales.Services.Order.Infrastructure\obj\Debug\net6.0\DigitalSales.Services.Order.Infrastructure.pdb

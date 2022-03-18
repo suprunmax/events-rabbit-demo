@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "J9cP5DfO6uBwsT8fL64rIXly75RqCAZKJAvN+hPjA1g=",
+  "Source": "DigitalSales.Services.Order.Api",
+  "BasePath": "_content/DigitalSales.Services.Order.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

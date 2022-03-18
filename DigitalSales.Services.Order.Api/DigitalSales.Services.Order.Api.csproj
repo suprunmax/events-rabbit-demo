@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Convey" Version="1.0.531" />
+        <PackageReference Include="Convey.WebApi" Version="1.0.531" />
+        <PackageReference Include="Convey.WebApi.CQRS" Version="1.0.531" />
+        <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.3" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DigitalSales.Services.Order.Application\DigitalSales.Services.Order.Application.csproj" />
+      <ProjectReference Include="..\DigitalSales.Services.Order.Infrastructure\DigitalSales.Services.Order.Infrastructure.csproj" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Convey" Version="1.0.531" />
+      <PackageReference Include="Convey.CQRS.Events" Version="1.0.531" />
+      <PackageReference Include="Convey.MessageBrokers" Version="1.0.531" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Events\DTO" />
+    </ItemGroup>
+
+</Project>

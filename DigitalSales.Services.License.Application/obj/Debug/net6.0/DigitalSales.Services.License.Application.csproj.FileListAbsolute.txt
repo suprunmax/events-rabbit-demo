@@ -1,0 +1,12 @@
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Application\bin\Debug\net6.0\DigitalSales.Services.License.Application.deps.json
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Application\bin\Debug\net6.0\DigitalSales.Services.License.Application.dll
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Application\bin\Debug\net6.0\ref\DigitalSales.Services.License.Application.dll
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Application\bin\Debug\net6.0\DigitalSales.Services.License.Application.pdb
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Application\obj\Debug\net6.0\DigitalSales.Services.License.Application.csproj.AssemblyReference.cache
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Application\obj\Debug\net6.0\DigitalSales.Services.License.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Application\obj\Debug\net6.0\DigitalSales.Services.License.Application.AssemblyInfoInputs.cache
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Application\obj\Debug\net6.0\DigitalSales.Services.License.Application.AssemblyInfo.cs
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Application\obj\Debug\net6.0\DigitalSales.Services.License.Application.csproj.CoreCompileInputs.cache
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Application\obj\Debug\net6.0\DigitalSales.Services.License.Application.dll
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Application\obj\Debug\net6.0\ref\DigitalSales.Services.License.Application.dll
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Application\obj\Debug\net6.0\DigitalSales.Services.License.Application.pdb

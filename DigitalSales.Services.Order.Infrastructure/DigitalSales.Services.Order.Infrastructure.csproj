@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Convey" Version="1.0.531" />
+      <PackageReference Include="Convey.MessageBrokers" Version="1.0.531" />
+      <PackageReference Include="Convey.MessageBrokers.CQRS" Version="1.0.531" />
+      <PackageReference Include="Convey.MessageBrokers.Outbox" Version="1.0.531" />
+      <PackageReference Include="Convey.MessageBrokers.RabbitMQ" Version="1.0.531" />
+      <PackageReference Include="Convey.WebApi" Version="1.0.531" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DigitalSales.Services.Order.Application\DigitalSales.Services.Order.Application.csproj" />
+    </ItemGroup>
+
+</Project>

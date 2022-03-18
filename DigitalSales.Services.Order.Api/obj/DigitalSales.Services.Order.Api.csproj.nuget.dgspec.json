@@ -1,0 +1,279 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Repositories\\EventsDemo\\DigitalSales.Services.Order.Api\\DigitalSales.Services.Order.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Repositories\\EventsDemo\\DigitalSales.Services.Order.Api\\DigitalSales.Services.Order.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repositories\\EventsDemo\\DigitalSales.Services.Order.Api\\DigitalSales.Services.Order.Api.csproj",
+        "projectName": "DigitalSales.Services.Order.Api",
+        "projectPath": "D:\\Repositories\\EventsDemo\\DigitalSales.Services.Order.Api\\DigitalSales.Services.Order.Api.csproj",
+        "packagesPath": "C:\\Users\\maksym.suprun\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositories\\EventsDemo\\DigitalSales.Services.Order.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maksym.suprun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://repository.altium.com/repository/altium-internal-release/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Repositories\\EventsDemo\\DigitalSales.Services.Order.Application\\DigitalSales.Services.Order.Application.csproj": {
+                "projectPath": "D:\\Repositories\\EventsDemo\\DigitalSales.Services.Order.Application\\DigitalSales.Services.Order.Application.csproj"
+              },
+              "D:\\Repositories\\EventsDemo\\DigitalSales.Services.Order.Infrastructure\\DigitalSales.Services.Order.Infrastructure.csproj": {
+                "projectPath": "D:\\Repositories\\EventsDemo\\DigitalSales.Services.Order.Infrastructure\\DigitalSales.Services.Order.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Convey": {
+              "target": "Package",
+              "version": "[1.0.531, )"
+            },
+            "Convey.WebApi": {
+              "target": "Package",
+              "version": "[1.0.531, )"
+            },
+            "Convey.WebApi.CQRS": {
+              "target": "Package",
+              "version": "[1.0.531, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repositories\\EventsDemo\\DigitalSales.Services.Order.Application\\DigitalSales.Services.Order.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repositories\\EventsDemo\\DigitalSales.Services.Order.Application\\DigitalSales.Services.Order.Application.csproj",
+        "projectName": "DigitalSales.Services.Order.Application",
+        "projectPath": "D:\\Repositories\\EventsDemo\\DigitalSales.Services.Order.Application\\DigitalSales.Services.Order.Application.csproj",
+        "packagesPath": "C:\\Users\\maksym.suprun\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositories\\EventsDemo\\DigitalSales.Services.Order.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maksym.suprun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://repository.altium.com/repository/altium-internal-release/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Convey": {
+              "target": "Package",
+              "version": "[1.0.531, )"
+            },
+            "Convey.CQRS.Commands": {
+              "target": "Package",
+              "version": "[1.0.531, )"
+            },
+            "Convey.CQRS.Events": {
+              "target": "Package",
+              "version": "[1.0.531, )"
+            },
+            "Convey.CQRS.Queries": {
+              "target": "Package",
+              "version": "[1.0.531, )"
+            },
+            "Convey.MessageBrokers": {
+              "target": "Package",
+              "version": "[1.0.531, )"
+            },
+            "Convey.MessageBrokers.Outbox.EntityFramework": {
+              "target": "Package",
+              "version": "[1.0.531, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repositories\\EventsDemo\\DigitalSales.Services.Order.Infrastructure\\DigitalSales.Services.Order.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repositories\\EventsDemo\\DigitalSales.Services.Order.Infrastructure\\DigitalSales.Services.Order.Infrastructure.csproj",
+        "projectName": "DigitalSales.Services.Order.Infrastructure",
+        "projectPath": "D:\\Repositories\\EventsDemo\\DigitalSales.Services.Order.Infrastructure\\DigitalSales.Services.Order.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\maksym.suprun\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositories\\EventsDemo\\DigitalSales.Services.Order.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maksym.suprun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://repository.altium.com/repository/altium-internal-release/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Repositories\\EventsDemo\\DigitalSales.Services.Order.Application\\DigitalSales.Services.Order.Application.csproj": {
+                "projectPath": "D:\\Repositories\\EventsDemo\\DigitalSales.Services.Order.Application\\DigitalSales.Services.Order.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Convey": {
+              "target": "Package",
+              "version": "[1.0.531, )"
+            },
+            "Convey.MessageBrokers": {
+              "target": "Package",
+              "version": "[1.0.531, )"
+            },
+            "Convey.MessageBrokers.CQRS": {
+              "target": "Package",
+              "version": "[1.0.531, )"
+            },
+            "Convey.MessageBrokers.Outbox": {
+              "target": "Package",
+              "version": "[1.0.531, )"
+            },
+            "Convey.MessageBrokers.RabbitMQ": {
+              "target": "Package",
+              "version": "[1.0.531, )"
+            },
+            "Convey.WebApi": {
+              "target": "Package",
+              "version": "[1.0.531, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

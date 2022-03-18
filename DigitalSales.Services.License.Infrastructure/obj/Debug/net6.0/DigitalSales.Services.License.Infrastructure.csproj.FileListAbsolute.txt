@@ -1,0 +1,15 @@
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Infrastructure\bin\Debug\net6.0\DigitalSales.Services.License.Infrastructure.deps.json
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Infrastructure\bin\Debug\net6.0\DigitalSales.Services.License.Infrastructure.dll
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Infrastructure\bin\Debug\net6.0\ref\DigitalSales.Services.License.Infrastructure.dll
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Infrastructure\bin\Debug\net6.0\DigitalSales.Services.License.Infrastructure.pdb
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Infrastructure\bin\Debug\net6.0\DigitalSales.Services.License.Application.dll
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Infrastructure\bin\Debug\net6.0\DigitalSales.Services.License.Application.pdb
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Infrastructure\obj\Debug\net6.0\DigitalSales.Services.License.Infrastructure.csproj.AssemblyReference.cache
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Infrastructure\obj\Debug\net6.0\DigitalSales.Services.License.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Infrastructure\obj\Debug\net6.0\DigitalSales.Services.License.Infrastructure.AssemblyInfoInputs.cache
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Infrastructure\obj\Debug\net6.0\DigitalSales.Services.License.Infrastructure.AssemblyInfo.cs
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Infrastructure\obj\Debug\net6.0\DigitalSales.Services.License.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Infrastructure\obj\Debug\net6.0\DigitalSales.Services.License.Infrastructure.csproj.CopyComplete
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Infrastructure\obj\Debug\net6.0\DigitalSales.Services.License.Infrastructure.dll
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Infrastructure\obj\Debug\net6.0\ref\DigitalSales.Services.License.Infrastructure.dll
+D:\Repositories\EventsDemo\DigitalSales.Services.License.Infrastructure\obj\Debug\net6.0\DigitalSales.Services.License.Infrastructure.pdb
